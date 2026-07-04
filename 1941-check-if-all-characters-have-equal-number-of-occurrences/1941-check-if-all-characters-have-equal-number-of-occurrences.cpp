@@ -1,7 +1,10 @@
 class Solution {
 public:
     bool areOccurrencesEqual(string s) {
-        unordered_map<int,int>mpp;
+        // unordered_map<int,int>mpp; // assci value store with a freq;
+
+        unordered_map<char,int>mpp;  //mapping char to freq;
+
         for(int i=0;i<s.size();i++){
             mpp[s[i]]++;
         }
