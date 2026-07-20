@@ -7,7 +7,7 @@ public:
         int i=0;
         for(int j=0;j<s.size();j++){
             
-            while( mpp.find(s[j])!=mpp.end() && mpp[s[j]]>=i){
+            if( mpp.find(s[j])!=mpp.end() && mpp[s[j]]>=i){
                 i=mpp[s[j]]+1;  
             }
             mpp[s[j]]=j;
