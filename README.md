@@ -82,5 +82,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0002-add-two-numbers) |
 | [1154-day-of-the-year](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1154-day-of-the-year) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
