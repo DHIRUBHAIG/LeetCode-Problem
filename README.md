@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
