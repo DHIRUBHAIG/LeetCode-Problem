@@ -10,9 +10,13 @@
  * };
  */
 class Solution {
-    void solve(TreeNode* root,vector<vector<int>>&ans){
-        queue<TreeNode*>q;
-        if(root==NULL)return;
+    
+      
+public:
+    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        vector<vector<int>>ans;
+         queue<TreeNode*>q;
+        if(root==NULL)return ans;
         bool lefttoright=true;
         q.push(root);
         while(!q.empty()){
@@ -38,11 +42,7 @@ class Solution {
             
         }
         
-    }
-public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        solve(root,ans);
+    
         return ans;
     }
 };
