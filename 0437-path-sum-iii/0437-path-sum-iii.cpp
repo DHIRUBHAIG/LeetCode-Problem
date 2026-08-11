@@ -14,14 +14,15 @@ public:
 void solve(TreeNode* root,int targetSum,int &count,vector<int>path){
     if(root==NULL) return ;
     path.push_back(root->val);
-    int s=path.size()-1;
+   
+    solve(root->left,targetSum,count,path);
+    solve(root->right,targetSum,count,path);
+     int s=path.size()-1;
      long long sum=0;
     for(int i=s;i>=0;i--){
          sum+=path[i];
         if(sum==targetSum) count++;
     }
-    solve(root->left,targetSum,count,path);
-    solve(root->right,targetSum,count,path);
     
    
     // passed by value
