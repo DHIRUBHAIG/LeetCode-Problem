@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-void solve(TreeNode* root,int targetSum,int &count,vector<int>&path){
+void solve(TreeNode* root,int targetSum,int &count,vector<int>path){
     if(root==NULL) return ;
     path.push_back(root->val);
     int s=path.size()-1;
@@ -24,8 +24,8 @@ void solve(TreeNode* root,int targetSum,int &count,vector<int>&path){
     solve(root->right,targetSum,count,path);
     
    
-    // passed by reference
-    path.pop_back();
+    // passed by value
+    // path.pop_back();
 
 }
     int pathSum(TreeNode* root, int targetSum) {
