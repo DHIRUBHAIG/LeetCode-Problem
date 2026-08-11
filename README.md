@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
