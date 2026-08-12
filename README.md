@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String Matching
 |  |
 | ------- |
