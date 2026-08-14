@@ -11,21 +11,23 @@
  */
 class Solution {
 public:
-void inorder(TreeNode* root, vector<int>&ans){
-    if(root==NULL) return;
-    inorder(root->left,ans);
-    ans.push_back(root->val);
-    inorder(root->right,ans);
+bool isvalid(TreeNode* root,long long low,long long high){
+    if(root==NULL) return true;
+    if(low>=root->val || high<=root->val){
+        return false;
+    }
+    if(!isvalid(root->left,low,root->val)){
+        return false;
+    }
+    if(!isvalid(root->right,root->val,high)){
+        return false;
+    }
+    return true;
+    
+
 }
+//Each node must stay within a valid range:
     bool isValidBST(TreeNode* root) {
-        vector<int>ans;
-        inorder(root,ans);
-        for(int i=1;i<ans.size();i++){
-           if( ans[i-1]>=ans[i]){
-            return false;
-           }
-        }
-        return true;
-        
+       return isvalid(root,LLONG_MIN,LLONG_MAX);
     }
 };
