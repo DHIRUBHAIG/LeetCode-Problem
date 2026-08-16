@@ -5,31 +5,30 @@ public:
 
         int n = cost.size();
 
-        // dp[i] = minimum cost required
-        // to reach step i.
-        vector<int> dp(n + 1, 0);
+        // prev2 = dp[i-2]
+        int prev2 = 0;
 
-        // We can start from step 0 or step 1,
-        // so their cost is 0.
-        dp[0] = 0;
-        dp[1] = 0;
+        // prev1 = dp[i-1]
+        int prev1 = 0;
 
-        // Calculate minimum cost for every step.
         for (int i = 2; i <= n; i++) {
 
-            // Option 1:
-            // Come from previous step.
-            int oneStep = dp[i - 1] + cost[i - 1];
+            // Cost if we come from i-1.
+            int oneStep = prev1 + cost[i - 1];
 
-            // Option 2:
-            // Jump two steps.
-            int twoStep = dp[i - 2] + cost[i - 2];
+            // Cost if we come from i-2.
+            int twoStep = prev2 + cost[i - 2];
 
-            // Take the cheaper option.
-            dp[i] = min(oneStep, twoStep);
+            // Minimum cost to reach current step.
+            int curr = min(oneStep, twoStep);
+
+            // Move forward.
+            prev2 = prev1;
+            prev1 = curr;
         }
 
-        // dp[n] = minimum cost to reach the top.
-        return dp[n];
+        // prev1 contains the minimum cost
+        // to reach the top.
+        return prev1;
     }
 };
