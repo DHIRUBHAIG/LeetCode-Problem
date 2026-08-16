@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0322-coin-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0322-coin-change) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
