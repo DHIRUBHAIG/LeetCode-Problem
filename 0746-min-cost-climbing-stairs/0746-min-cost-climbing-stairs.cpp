@@ -1,40 +1,35 @@
 class Solution {
 public:
 
-    int solve(int n, vector<int>& cost, vector<int>& dp) {
-
-        // Base case:
-        // Reaching the top costs nothing.
-        if (n <= 1) {
-            return 0;
-        }
-
-        // If already calculated,
-        // return the stored answer.
-        if (dp[n] != -1) {
-            return dp[n];
-        }
-
-        // Come from n-1.
-        int oneStep = solve(n - 1, cost, dp) + cost[n - 1];
-
-        // Come from n-2.
-        int twoStep = solve(n - 2, cost, dp) + cost[n - 2];
-
-        // Store the minimum cost.
-        dp[n] = min(oneStep, twoStep);
-
-        return dp[n];
-    }
-
     int minCostClimbingStairs(vector<int>& cost) {
 
         int n = cost.size();
 
         // dp[i] = minimum cost required
         // to reach step i.
-        vector<int> dp(n + 1, -1);
+        vector<int> dp(n + 1, 0);
 
-        return solve(n, cost, dp);
+        // We can start from step 0 or step 1,
+        // so their cost is 0.
+        dp[0] = 0;
+        dp[1] = 0;
+
+        // Calculate minimum cost for every step.
+        for (int i = 2; i <= n; i++) {
+
+            // Option 1:
+            // Come from previous step.
+            int oneStep = dp[i - 1] + cost[i - 1];
+
+            // Option 2:
+            // Jump two steps.
+            int twoStep = dp[i - 2] + cost[i - 2];
+
+            // Take the cheaper option.
+            dp[i] = min(oneStep, twoStep);
+        }
+
+        // dp[n] = minimum cost to reach the top.
+        return dp[n];
     }
 };
