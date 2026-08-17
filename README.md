@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0027-remove-element) |
+| [0063-unique-paths-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0322-coin-change) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Search
