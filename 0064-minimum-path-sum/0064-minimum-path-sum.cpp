@@ -22,10 +22,10 @@ int solve(vector<vector<int>>& grid,int m,int n){
     // dp[m][n]= min(right,down);
     // return dp[m][n];
 
-    vector<vector<int>>dp(m,vector<int>(n,-1));
+    vector<int>dp(n,-1);
 
     // Base case
-    dp[0][0] = grid[0][0];
+    dp[0] = grid[0][0];
    
     for(int i=0;i<m;i++){
         for(int j=0;j<n;j++){
@@ -35,21 +35,21 @@ int solve(vector<vector<int>>& grid,int m,int n){
          int right=INT_MAX;
     int down=INT_MAX;
             if(i==0) {
-        right=grid[i][j]+dp[i][j-1];
+        right=grid[i][j]+dp[j-1];
 
     }
     else if(j==0){
-        down=grid[i][j]+dp[i-1][j];
+        down=grid[i][j]+dp[j];
     }
     else{
-        right=grid[i][j]+dp[i][j-1];
-        down=grid[i][j]+dp[i-1][j];
+        right=grid[i][j]+dp[j-1];
+        down=grid[i][j]+dp[j];
     }
-    dp[i][j]= min(right,down);
+    dp[j]= min(right,down);
 
         }
     }
-    return dp[m-1][n-1];
+    return dp[n-1];
 }
     int minPathSum(vector<vector<int>>& grid) {
        int m=grid.size();
