@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1154-day-of-the-year) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
