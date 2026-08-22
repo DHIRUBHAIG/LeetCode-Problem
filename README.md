@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0027-remove-element) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0162-find-peak-element) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
