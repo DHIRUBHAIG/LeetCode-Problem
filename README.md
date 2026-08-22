@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
