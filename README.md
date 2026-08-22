@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0877-stone-game) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0875-koko-eating-bananas](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
