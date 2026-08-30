@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
@@ -393,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
