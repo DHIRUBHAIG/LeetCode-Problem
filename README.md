@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0516-longest-palindromic-subsequence) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
@@ -387,4 +390,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
