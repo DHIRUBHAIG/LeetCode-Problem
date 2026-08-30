@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0877-stone-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quicksort
 |  |
