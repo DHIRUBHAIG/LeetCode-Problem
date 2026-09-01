@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0516-longest-palindromic-subsequence) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0145-binary-tree-postorder-traversal) |
