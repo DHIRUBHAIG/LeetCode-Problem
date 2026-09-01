@@ -1,40 +1,58 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        if(s.size()==1) return s;
-        string lps="";
-        //odd lenght palindrome;
-        for(int i=1;i<s.size();i++){
-            
-            int low=i;
-            int high=i;
-            while(s[low]==s[high]){
-                low--;
-                high++;
-                if(low==-1 || high==s.size()) break;
+        string maxp = "";
 
-            }
-            string palindrome=s.substr(low+1,high-low-1);
-            if(palindrome.size()>lps.size()){
-                lps=palindrome;
+        // Odd length palindrome
+        for (int i = 0; i < s.size(); i++) {
+
+            int low = i;
+            int high = i;
+
+            while (low >= 0 && high < s.size()) {
+
+                if (s[low] == s[high]) {
+
+                    string p = s.substr(low, high - low + 1);
+
+                    if (p.size() > maxp.size()) {
+                        maxp = p;
+                    }
+
+                    low--;
+                    high++;
+                }
+                else {
+                    break;
+                }
             }
         }
-        // even lenght palindrome;
-        for(int i=1;i<s.size();i++){
-            
-            int low=i-1;
-            int high=i;
-            while(s[low]==s[high]){
-                low--;
-                high++;
-                if(low==-1 || high==s.size()) break;
 
-            }
-            string palindrome=s.substr(low+1,high-low-1);
-            if(palindrome.size()>lps.size()){
-                lps=palindrome;
+        // Even length palindrome
+        for (int i = 0; i < s.size() - 1; i++) {
+
+            int low = i;
+            int high = i + 1;
+
+            while (low >= 0 && high < s.size()) {
+
+                if (s[low] == s[high]) {
+
+                    string p = s.substr(low, high - low + 1);
+
+                    if (p.size() > maxp.size()) {
+                        maxp = p;
+                    }
+
+                    low--;
+                    high++;
+                }
+                else {
+                    break;
+                }
             }
         }
-        return lps;
+
+        return maxp;
     }
 };
