@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0506-relative-ranks) |
 | [0746-min-cost-climbing-stairs](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0229-majority-element-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0506-relative-ranks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/DHIRUBHAIG/LeetCode-Problem/tree/master/0506-relative-ranks) |
 ## Greedy
 |  |
 | ------- |
